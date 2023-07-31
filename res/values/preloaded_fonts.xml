@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alegreya</item>
+        <item>@font/alegreya_bold</item>
+        <item>@font/aleo_bold_italic</item>
+        <item>@font/alex_brush</item>
+        <item>@font/amita</item>
+        <item>@font/archivo_black</item>
+        <item>@font/arimo</item>
+        <item>@font/poppins_black</item>
+        <item>@font/poppins_light</item>
+    </array>
+</resources>

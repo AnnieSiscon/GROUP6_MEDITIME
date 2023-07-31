@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/basta_blue"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".Upload">
+
+    <ImageView
+        android:id="@+id/imageview"
+        android:layout_width="222dp"
+        android:layout_height="295dp"
+        android:layout_marginBottom="20dp"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/uploadbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/baby_blue"
+            android:text="Upload Picture"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"></androidx.appcompat.widget.AppCompatButton>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/capturebutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/baby_blue"
+            android:text="Capture Picture"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"></androidx.appcompat.widget.AppCompatButton>
+    </LinearLayout>
+
+</LinearLayout>
