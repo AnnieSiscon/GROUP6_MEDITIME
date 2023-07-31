@@ -14,6 +14,31 @@ Our mission is to make managing your medication schedule effortless and stress-f
 * USB cable (to connect your Android device to your computer)
 
 # FEATURES
-***1. Personalized Medication Reminders***
+***1. Personalized Medication Reminders**
   
 ![222](https://github.com/AnnieSiscon/GROUP6_MEDITIME/assets/140963479/1ad8fabe-1c0c-4dfb-94a1-c83ed31480d6)
+
+***2. Doctor Prescription Upload**
+
+![upload](https://github.com/AnnieSiscon/GROUP6_MEDITIME/assets/140963479/933b8e13-53d3-4f39-ab96-29de234afa36)
+
+***3. User-Friendly Interface**
+
+![friendly](https://github.com/AnnieSiscon/GROUP6_MEDITIME/assets/140963479/dab578b5-66f2-4ff0-8864-15f46dd643ab)
+
+# DEMO VIDEO 
+
+# RESEARCH/DEVELOPERS
+* Siscon, Annie
+* Gutay, Divine Rayne
+* Caranog, Lhean Rose
+* Abeleda, Joanna Mariel
+
+# ADVISER
+* Prof. Jefferson A. Costales
+
+# COURSE
+* Bachelor of Science in Information Technology
+
+# DATE
+* July 31, 2023
