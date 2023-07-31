@@ -67,7 +67,7 @@ Our mission is to make managing your medication schedule effortless and stress-f
 
 # DEMO VIDEO 
 
-https://drive.google.com/file/d/13DcYMylS3j2TGh4OicUWvwnR09I1Ezkh/view?usp=sharinghttps://drive.google.com/file/d/13DcYMylS3j2TGh4OicUWvwnR09I1Ezkh/view?usp=sharing
+https://www.youtube.com/shorts/5TGMIYc39VM
 
 # RESEARCH/DEVELOPERS
 * Siscon, Annie
