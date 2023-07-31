@@ -36,7 +36,7 @@ https://drive.google.com/file/d/13DcYMylS3j2TGh4OicUWvwnR09I1Ezkh/view?usp=shari
 * Caranog, Lhean Rose
 * Abeleda, Joanna Mariel
 
-# ADVISER
+# CONTRIBUTOR
 * Prof. Jefferson A. Costales
 
 # COURSE
